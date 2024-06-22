@@ -1,4 +1,4 @@
-package org.controle.normaeng;
+package org.controle.registraclick.p;
 
 import javafx.beans.property.SimpleBooleanProperty;
 import javafx.beans.property.SimpleIntegerProperty;

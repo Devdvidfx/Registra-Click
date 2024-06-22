@@ -14,6 +14,6 @@ module org.controle.normaeng {
     requires org.apache.poi.poi;
     requires org.apache.poi.ooxml;
 
-    opens org.controle.normaeng to javafx.fxml;
-    exports org.controle.normaeng;
+    opens org.controle.RegistraClick.p to javafx.fxml;
+    exports org.controle.RegistraClick.p;
 }
