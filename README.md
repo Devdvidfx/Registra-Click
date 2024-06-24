@@ -124,15 +124,3 @@ Neste tutorial, vamos explorar passo a passo como utilizar e entender o Sistema 
 ## Conclusão
 
 Este tutorial abordou como utilizar o Sistema de Controle de Registros de Funcionários em JavaFX, destacando suas funcionalidades principais, tecnologias utilizadas e passos necessários para sua utilização. A aplicação oferece uma solução eficiente para o gerenciamento de patrimônio de funcionários, facilitando a organização e registro das operações realizadas.
-
-# Conclusão
-
-O Sistema de Controle de Registros de Funcionários em JavaFX apresenta uma solução robusta e eficiente para empresas que necessitam gerenciar o patrimônio de seus colaboradores de forma organizada e automatizada. Ao longo deste tutorial, exploramos as principais funcionalidades do sistema, as tecnologias utilizadas em seu desenvolvimento, a estrutura do projeto e as instruções detalhadas para sua utilização.
-
-Com a utilização de JavaFX, conseguimos criar uma interface gráfica responsiva e amigável, que permite aos usuários visualizar e interagir facilmente com os registros de funcionários. A integração com a biblioteca Apache POI possibilita a geração automática de relatórios em formato Excel, proporcionando uma maneira eficiente de documentar e acompanhar as operações realizadas.
-
-Ao seguir o passo a passo para utilização do sistema, desde a execução até a geração de relatórios, os gestores e administradores podem melhorar significativamente o controle sobre o patrimônio da empresa, garantindo uma gestão mais precisa e transparente das atividades relacionadas aos funcionários.
-
-Este projeto não apenas demonstra a aplicação prática de tecnologias modernas como JavaFX e Apache POI, mas também destaca a importância de desenvolver soluções que simplifiquem processos complexos, tornando-os mais acessíveis e eficazes para os usuários finais.
-
-Esperamos que este tutorial tenha sido útil para compreender e implementar o Sistema de Controle de Registros de Funcionários em JavaFX em seu ambiente de trabalho. Com as funcionalidades descritas e a estrutura claramente definida, você está pronto para utilizar e adaptar este sistema conforme as necessidades específicas da sua empresa.
